@@ -11,7 +11,7 @@ export default class Education extends React.Component {
           <article className='media'>
             <figure className='media-left'>
               <p className='image is-64x64'>
-                <img src='http://www.kp.ac.th/website/images/logo2copy2.png' alt='โรงเรียนกำแพงเพชรพิทยาคม' />
+                <img src='https://media.dommie.me/kpLogo.png' alt='โรงเรียนกำแพงเพชรพิทยาคม' />
               </p>
             </figure>
             <div className='media-content'>
@@ -35,7 +35,7 @@ export default class Education extends React.Component {
           <article className='media'>
             <figure className='media-left'>
               <p className='image is-64x64'>
-                <img src='http://www.kp.ac.th/website/images/logo2copy2.png' alt='โรงเรียนกำแพงเพชรพิทยาคม' />
+                <img src='https://media.dommie.me/kpLogo.png' alt='โรงเรียนกำแพงเพชรพิทยาคม' />
               </p>
             </figure>
             <div className='media-content'>
