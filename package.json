@@ -1,0 +1,20 @@
+{
+  "name": "dommie.me",
+  "version": "1.0.0",
+  "description": "dommie homepage",
+  "main": "app.js",
+  "repository": "https://github.com/d0mmie/dommie.me.git",
+  "author": "d0mmie <st234@outlook.co.th>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node app.js",
+    "build": "next build",
+    "start": "SET NODE_ENV=production && node app.js"
+  },
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
