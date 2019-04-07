@@ -1,0 +1,11 @@
+body {
+  margin-top: 12px;
+}
+
+.is-small-rounded {
+  border-radius: 16px;
+}
+
+.is-bg-grey2 {
+  background-color: #fafafa;
+}

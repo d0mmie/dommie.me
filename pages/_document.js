@@ -12,9 +12,11 @@ class MyDocument extends Document {
         <Head>
         <meta
           name='viewport'
-          content='initial-scale=1.0, width=device-width, user-scalable=no'
+          content='width=device-width, initial-scale=1'
           key='viewport'
         />
+          <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css' />
+          <link href='https://unpkg.com/ionicons@4.5.5/dist/css/ionicons.min.css' rel='stylesheet' />
           <link rel='stylesheet' href='/static/style.css' />
         </Head>
         <body>
